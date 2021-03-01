@@ -14,7 +14,7 @@ This tool is used for educational purposes only. Windows is only supported right
 and make sure you click on the 'ADD TO PATH' option during
 the installation.
 
-2. pip install requirements ```pip install -r requirements.txt``` or you can run the .bat file. The .bat file automatically pip installs the requirements for you
+2. pip install requirements ```pip install -r requirements.txt``` or you can run the .bat file. The .bat file automatically pip installs the requirements for you (if you get an error while installing PyNacl, try running cmd as administrator)
 
 3. ffmpeg is required if you want to play music. Download choco then ```choco install ffmpeg```, or you can run ffmpeg.ps1 by right clicking and clicking 'run with powershell'. ffmpeg.ps1 automatically installs choco and ffmpeg for you. 
 
