@@ -1,4 +1,5 @@
 # Discord-Raider-Pro
+![PictureLogo](https://i.ibb.co/khPHthN/discord-128-ico-removebg-preview.png)
 
 ## About
 This tool is used for educational purposes only. Windows is only supported right now.
