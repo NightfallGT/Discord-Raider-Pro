@@ -1,7 +1,7 @@
 # Discord-Raider-Pro
 
 ## About
-This tool is used for educational purposes only. 
+This tool is used for educational purposes only. Windows is only supported right now.
 
 ## Picture
 ![Picture](https://i.ibb.co/hVQgWK7/Screenshot-199.png)
@@ -19,3 +19,17 @@ the installation.
 
 4.  Make sure you are in the same directory as the folder you downloaded it in.  Type
 ```python main.py``` in cmd to run or you can run the .bat file.
+
+5. Add tokens to the program; open the text file with your discord tokens
+
+## Features 
+- Status Changer
+- Server Joiner
+- Server Leaver
+- Text Spam
+- Voice Channel Joiner
+- Voice Channel Leaver
+- Voice Channel Music Player/ Spam
+- Message Reaction Adder
+- Embed Spammer
+- Fake Typing
