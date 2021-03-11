@@ -1,5 +1,5 @@
     import requests, threading, time
-
+# Threading so the join is way more faster
     class Setup:
         def __init__(self, tokens):
             self.tokens = tokens
